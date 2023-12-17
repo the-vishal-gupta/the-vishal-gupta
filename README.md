@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @the-vishal-gupta
 - 👀 I’m interested in metaverse
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning/python
